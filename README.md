@@ -48,6 +48,6 @@ optwin = Optwin_river(w_lenght_max=w_lenght_max, w_lenght_min=w_lenght_min, rigo
 
 # Cite us
 
-M.D.L. Tosi and M. Theobald, "OPTWIN: Drift Identification with Optimal Sub-Windows," in 2024 IEEE 40th International Conference on Data Engineering Workshops (ICDEW), Utrecht, Netherlands, 2024 pp. 331-337. doi: 10.1109/ICDEW61823.2024.00049
+M.D.L. Tosi and M. Theobald, "OPTWIN: Drift Identification with Optimal Sub-Windows," in 2024 IEEE 40th International Conference on Data Engineering Workshops (ICDEW), Utrecht, Netherlands, 2024 pp. 331-337. doi: 10.1109/ICDEW61823.2024.00049 https://doi.ieeecomputersociety.org/10.1109/ICDEW61823.2024.00049
 
 
